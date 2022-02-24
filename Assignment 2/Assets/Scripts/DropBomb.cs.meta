@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23019f97c3fcf17468bfd43a4445827f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - smallBomb: {fileID: 3458318435299474627, guid: 02af41b409932b44faac3b9687ec226c, type: 3}
+  - bigBomb: {fileID: 4077635601422227428, guid: a1a8d462694296f47ad135f4ecd1faee, type: 3}
+  - smallBombButton: {instanceID: 0}
+  - bigBombButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
